@@ -63,12 +63,3 @@ public class Election {
         return Math.round(num * 100.0) / 100.0;
     }
 }
-
-
-
-
-
-
-   
-        public static void intro() {
-         
